@@ -12,7 +12,7 @@ public class test {
 	 }else if(number%3==0) {
 		 System.out.println("Fizz");
 	 }else if(number%5==0) {
-		 System.out.println("Buzz");
+		 System.out.println("Buzzz");
 	 }else {
 		 System.out.println("please try again with Oguz");
 		 System.out.println("please try again with Oguz");
